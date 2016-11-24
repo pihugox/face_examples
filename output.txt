@@ -1,0 +1,430 @@
+hugo@dataPc:~/face_examples$ ./face_detector.py faces/*.jpg
+Processing file: faces/2007_007763.jpg
+Number of faces detected: 7
+in 0.138075828552 seconds
+Detection 0: Left: 93 Top: 194 Right: 129 Bottom: 230
+Detection 1: Left: 193 Top: 90 Right: 229 Bottom: 126
+Detection 2: Left: 293 Top: 86 Right: 329 Bottom: 122
+Detection 3: Left: 157 Top: 114 Right: 193 Bottom: 150
+Detection 4: Left: 177 Top: 214 Right: 213 Bottom: 250
+Detection 5: Left: 381 Top: 89 Right: 424 Bottom: 132
+Detection 6: Left: 309 Top: 233 Right: 352 Bottom: 276
+Hit enter to continue
+Processing file: faces/2008_001009.jpg
+Number of faces detected: 2
+in 0.124879837036 seconds
+Detection 0: Left: 124 Top: 205 Right: 214 Bottom: 294
+Detection 1: Left: 148 Top: 87 Right: 210 Bottom: 149
+Hit enter to continue
+Processing file: faces/2008_001322.jpg
+Number of faces detected: 3
+in 0.134035110474 seconds
+Detection 0: Left: 231 Top: 218 Right: 293 Bottom: 280
+Detection 1: Left: 103 Top: 162 Right: 178 Bottom: 237
+Detection 2: Left: 343 Top: 155 Right: 433 Bottom: 244
+Hit enter to continue
+Processing file: faces/2008_002079.jpg
+Number of faces detected: 6
+in 0.136101961136 seconds
+Detection 0: Left: 59 Top: 127 Right: 103 Bottom: 170
+Detection 1: Left: 37 Top: 187 Right: 89 Bottom: 239
+Detection 2: Left: 434 Top: 170 Right: 486 Bottom: 222
+Detection 3: Left: 405 Top: 166 Right: 441 Bottom: 202
+Detection 4: Left: 121 Top: 130 Right: 157 Bottom: 166
+Detection 5: Left: 345 Top: 138 Right: 381 Bottom: 174
+Hit enter to continue
+Processing file: faces/2008_002470.jpg
+Number of faces detected: 6
+in 0.117943048477 seconds
+Detection 0: Left: 177 Top: 82 Right: 213 Bottom: 118
+Detection 1: Left: 232 Top: 69 Right: 275 Bottom: 113
+Detection 2: Left: 273 Top: 181 Right: 325 Bottom: 233
+Detection 3: Left: 55 Top: 156 Right: 98 Bottom: 199
+Detection 4: Left: 328 Top: 55 Right: 371 Bottom: 98
+Detection 5: Left: 145 Top: 166 Right: 181 Bottom: 202
+Hit enter to continue
+Processing file: faces/2008_002506.jpg
+Number of faces detected: 3
+in 0.160823106766 seconds
+Detection 0: Left: 114 Top: 54 Right: 221 Bottom: 162
+Detection 1: Left: 329 Top: 78 Right: 436 Bottom: 186
+Detection 2: Left: 224 Top: 95 Right: 314 Bottom: 185
+Hit enter to continue
+Processing file: faces/2008_004176.jpg
+Number of faces detected: 7
+in 0.149511098862 seconds
+Detection 0: Left: 109 Top: 82 Right: 145 Bottom: 118
+Detection 1: Left: 221 Top: 94 Right: 257 Bottom: 130
+Detection 2: Left: 205 Top: 230 Right: 241 Bottom: 266
+Detection 3: Left: 325 Top: 78 Right: 361 Bottom: 114
+Detection 4: Left: 161 Top: 118 Right: 197 Bottom: 154
+Detection 5: Left: 189 Top: 82 Right: 225 Bottom: 118
+Detection 6: Left: 281 Top: 102 Right: 317 Bottom: 138
+Hit enter to continue
+Processing file: faces/2008_007676.jpg
+Number of faces detected: 7
+in 0.120635986328 seconds
+Detection 0: Left: 225 Top: 62 Right: 261 Bottom: 98
+Detection 1: Left: 313 Top: 118 Right: 349 Bottom: 154
+Detection 2: Left: 194 Top: 113 Right: 237 Bottom: 156
+Detection 3: Left: 261 Top: 130 Right: 297 Bottom: 166
+Detection 4: Left: 106 Top: 135 Right: 158 Bottom: 187
+Detection 5: Left: 365 Top: 134 Right: 401 Bottom: 170
+Detection 6: Left: 136 Top: 84 Right: 179 Bottom: 127
+Hit enter to continue
+Processing file: faces/2009_004587.jpg
+Number of faces detected: 2
+in 0.14248585701 seconds
+Detection 0: Left: 153 Top: 46 Right: 228 Bottom: 121
+Detection 1: Left: 266 Top: 280 Right: 328 Bottom: 342
+Hit enter to continue
+Processing file: faces/carlos.jpg
+Number of faces detected: 1
+in 0.040479183197 seconds
+Detection 0: Left: 54 Top: 78 Right: 161 Bottom: 186
+Hit enter to continue
+Processing file: faces/data.jpg
+Number of faces detected: 12
+in 1.34920692444 seconds
+Detection 0: Left: 1032 Top: 411 Right: 1107 Bottom: 486
+Detection 1: Left: 432 Top: 425 Right: 494 Bottom: 487
+Detection 2: Left: 860 Top: 480 Right: 922 Bottom: 543
+Detection 3: Left: 943 Top: 418 Right: 1005 Bottom: 480
+Detection 4: Left: 786 Top: 400 Right: 838 Bottom: 452
+Detection 5: Left: 190 Top: 391 Right: 252 Bottom: 453
+Detection 6: Left: 722 Top: 460 Right: 784 Bottom: 522
+Detection 7: Left: 593 Top: 419 Right: 667 Bottom: 494
+Detection 8: Left: 335 Top: 370 Right: 397 Bottom: 432
+Detection 9: Left: 694 Top: 377 Right: 745 Bottom: 429
+Detection 10: Left: 528 Top: 363 Right: 591 Bottom: 425
+Detection 11: Left: 1107 Top: 369 Right: 1182 Bottom: 444
+Hit enter to continue
+Processing file: faces/deivit.jpg
+Number of faces detected: 2
+in 0.292927980423 seconds
+Detection 0: Left: 135 Top: 301 Right: 321 Bottom: 487
+Detection 1: Left: 49 Top: 810 Right: 85 Bottom: 846
+Hit enter to continue
+Processing file: faces/dogs.jpg
+Number of faces detected: 0
+in 0.571383953094 seconds
+Hit enter to continue
+Processing file: faces/sol.jpg
+Number of faces detected: 4
+in 0.251663923264 seconds
+Detection 0: Left: 423 Top: 66 Right: 552 Bottom: 195
+Detection 1: Left: 53 Top: 301 Right: 239 Bottom: 487
+Detection 2: Left: 144 Top: 65 Right: 234 Bottom: 155
+Detection 3: Left: 411 Top: 287 Right: 633 Bottom: 510
+Hit enter to continue
+Traceback (most recent call last):
+  File "./face_detector.py", line 86, in <module>
+    dets, scores, idx = detector.run(img, 1, -1)
+Boost.Python.ArgumentError: Python argument types in
+    fhog_object_detector.run(fhog_object_detector, numpy.ndarray, int, int)
+did not match C++ signature:
+    run(dlib::object_detector<dlib::scan_fhog_pyramid<dlib::pyramid_down<6u>, dlib::default_fhog_feature_extractor> > {lvalue}, boost::python::api::object image, unsigned int upsample_num_times=0)
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ 
+hugo@dataPc:~/face_examples$ ./face_landmark_detection.py shape_predictor_68_face_landmarks.dat faces/
+Processing file: faces/deivit.jpg
+Traceback (most recent call last):
+  File "./face_landmark_detection.py", line 85, in <module>
+    detector_time = time.time() - start_time();
+TypeError: 'float' object is not callable
+hugo@dataPc:~/face_examples$ ./face_landmark_detection.py shape_predictor_68_face_landmarks.dat faces/
+Processing file: faces/deivit.jpg
+Number of faces detected: 2
+Face Detection in 0.296412944794 seconds
+Detection 0: Left: 135 Top: 301 Right: 321 Bottom: 487
+Part 0: (139, 336), Part 1: (142, 361) ...
+Face Align in 0.00292205810547 seconds
+Detection 1: Left: 49 Top: 810 Right: 85 Bottom: 846
+Part 0: (52, 821), Part 1: (52, 825) ...
+Face Align in 0.00311803817749 seconds
+Hit enter to continue
+Processing file: faces/2008_002506.jpg
+Number of faces detected: 3
+Face Detection in 0.140038967133 seconds
+Detection 0: Left: 114 Top: 54 Right: 221 Bottom: 162
+Part 0: (115, 91), Part 1: (113, 104) ...
+Face Align in 0.00297999382019 seconds
+Detection 1: Left: 329 Top: 78 Right: 436 Bottom: 186
+Part 0: (343, 134), Part 1: (345, 145) ...
+Face Align in 0.00293803215027 seconds
+Detection 2: Left: 224 Top: 95 Right: 314 Bottom: 185
+Part 0: (227, 134), Part 1: (229, 145) ...
+Face Align in 0.00305008888245 seconds
+Hit enter to continue
+Processing file: faces/dogs.jpg
+Number of faces detected: 0
+Face Detection in 0.599333047867 seconds
+Hit enter to continue
+Processing file: faces/2008_007676.jpg
+Number of faces detected: 7
+Face Detection in 0.118334054947 seconds
+Detection 0: Left: 225 Top: 62 Right: 261 Bottom: 98
+Part 0: (223, 72), Part 1: (224, 77) ...
+Face Align in 0.00305104255676 seconds
+Detection 1: Left: 313 Top: 118 Right: 349 Bottom: 154
+Part 0: (319, 132), Part 1: (319, 136) ...
+Face Align in 0.00287294387817 seconds
+Detection 2: Left: 194 Top: 113 Right: 237 Bottom: 156
+Part 0: (191, 124), Part 1: (191, 131) ...
+Face Align in 0.00356483459473 seconds
+Detection 3: Left: 261 Top: 130 Right: 297 Bottom: 166
+Part 0: (265, 139), Part 1: (265, 143) ...
+Face Align in 0.00329804420471 seconds
+Detection 4: Left: 106 Top: 135 Right: 158 Bottom: 187
+Part 0: (107, 151), Part 1: (106, 157) ...
+Face Align in 0.00293803215027 seconds
+Detection 5: Left: 365 Top: 134 Right: 401 Bottom: 170
+Part 0: (368, 141), Part 1: (367, 146) ...
+Face Align in 0.00313901901245 seconds
+Detection 6: Left: 136 Top: 84 Right: 179 Bottom: 127
+Part 0: (131, 97), Part 1: (132, 103) ...
+Face Align in 0.0033118724823 seconds
+Hit enter to continue
+Processing file: faces/2008_004176.jpg
+Number of faces detected: 7
+Face Detection in 0.14953494072 seconds
+Detection 0: Left: 109 Top: 82 Right: 145 Bottom: 118
+Part 0: (107, 92), Part 1: (107, 97) ...
+Face Align in 0.00349688529968 seconds
+Detection 1: Left: 221 Top: 94 Right: 257 Bottom: 130
+Part 0: (226, 109), Part 1: (226, 112) ...
+Face Align in 0.00313687324524 seconds
+Detection 2: Left: 205 Top: 230 Right: 241 Bottom: 266
+Part 0: (206, 241), Part 1: (206, 246) ...
+Face Align in 0.00395083427429 seconds
+Detection 3: Left: 325 Top: 78 Right: 361 Bottom: 114
+Part 0: (330, 93), Part 1: (331, 97) ...
+Face Align in 0.00339579582214 seconds
+Detection 4: Left: 161 Top: 118 Right: 197 Bottom: 154
+Part 0: (164, 132), Part 1: (165, 136) ...
+Face Align in 0.00338697433472 seconds
+Detection 5: Left: 189 Top: 82 Right: 225 Bottom: 118
+Part 0: (194, 91), Part 1: (195, 95) ...
+Face Align in 0.00366997718811 seconds
+Detection 6: Left: 281 Top: 102 Right: 317 Bottom: 138
+Part 0: (284, 110), Part 1: (284, 114) ...
+Face Align in 0.00330686569214 seconds
+Hit enter to continue
+Processing file: faces/2008_002470.jpg
+Number of faces detected: 6
+Face Detection in 0.118525028229 seconds
+Detection 0: Left: 177 Top: 82 Right: 213 Bottom: 118
+Part 0: (184, 100), Part 1: (184, 104) ...
+Face Align in 0.00285983085632 seconds
+Detection 1: Left: 232 Top: 69 Right: 275 Bottom: 113
+Part 0: (238, 92), Part 1: (240, 97) ...
+Face Align in 0.0029079914093 seconds
+Detection 2: Left: 273 Top: 181 Right: 325 Bottom: 233
+Part 0: (278, 194), Part 1: (278, 200) ...
+Face Align in 0.00333189964294 seconds
+Detection 3: Left: 55 Top: 156 Right: 98 Bottom: 199
+Part 0: (54, 170), Part 1: (55, 176) ...
+Face Align in 0.00320506095886 seconds
+Detection 4: Left: 328 Top: 55 Right: 371 Bottom: 98
+Part 0: (327, 73), Part 1: (328, 78) ...
+Face Align in 0.0032958984375 seconds
+Detection 5: Left: 145 Top: 166 Right: 181 Bottom: 202
+Part 0: (152, 181), Part 1: (152, 185) ...
+Face Align in 0.00311493873596 seconds
+Hit enter to continue
+Processing file: faces/2008_001009.jpg
+Number of faces detected: 2
+Face Detection in 0.125806808472 seconds
+Detection 0: Left: 124 Top: 205 Right: 214 Bottom: 294
+Part 0: (133, 249), Part 1: (134, 259) ...
+Face Align in 0.00295186042786 seconds
+Detection 1: Left: 148 Top: 87 Right: 210 Bottom: 149
+Part 0: (146, 113), Part 1: (148, 122) ...
+Face Align in 0.00283694267273 seconds
+Hit enter to continue
+Processing file: faces/sol.jpg
+Number of faces detected: 4
+Face Detection in 0.254608154297 seconds
+Detection 0: Left: 423 Top: 66 Right: 552 Bottom: 195
+Part 0: (445, 103), Part 1: (442, 118) ...
+Face Align in 0.00293517112732 seconds
+Detection 1: Left: 53 Top: 301 Right: 239 Bottom: 487
+Part 0: (86, 349), Part 1: (82, 370) ...
+Face Align in 0.00295615196228 seconds
+Detection 2: Left: 144 Top: 65 Right: 234 Bottom: 155
+Part 0: (157, 86), Part 1: (155, 97) ...
+Face Align in 0.00320291519165 seconds
+Detection 3: Left: 411 Top: 287 Right: 633 Bottom: 510
+Part 0: (444, 339), Part 1: (439, 366) ...
+Face Align in 0.0035080909729 seconds
+Hit enter to continue
+Processing file: faces/2007_007763.jpg
+Number of faces detected: 7
+Face Detection in 0.135756969452 seconds
+Detection 0: Left: 93 Top: 194 Right: 129 Bottom: 230
+Part 0: (100, 208), Part 1: (100, 211) ...
+Face Align in 0.00323796272278 seconds
+Detection 1: Left: 193 Top: 90 Right: 229 Bottom: 126
+Part 0: (201, 107), Part 1: (201, 110) ...
+Face Align in 0.00319385528564 seconds
+Detection 2: Left: 293 Top: 86 Right: 329 Bottom: 122
+Part 0: (299, 102), Part 1: (299, 105) ...
+Face Align in 0.00343894958496 seconds
+Detection 3: Left: 157 Top: 114 Right: 193 Bottom: 150
+Part 0: (165, 131), Part 1: (164, 134) ...
+Face Align in 0.00299000740051 seconds
+Detection 4: Left: 177 Top: 214 Right: 213 Bottom: 250
+Part 0: (185, 224), Part 1: (184, 228) ...
+Face Align in 0.00291395187378 seconds
+Detection 5: Left: 381 Top: 89 Right: 424 Bottom: 132
+Part 0: (393, 107), Part 1: (392, 111) ...
+Face Align in 0.00328803062439 seconds
+Detection 6: Left: 309 Top: 233 Right: 352 Bottom: 276
+Part 0: (322, 245), Part 1: (320, 249) ...
+Face Align in 0.00352311134338 seconds
+Hit enter to continue
+Processing file: faces/2009_004587.jpg
+Number of faces detected: 2
+Face Detection in 0.145955085754 seconds
+Detection 0: Left: 153 Top: 46 Right: 228 Bottom: 121
+Part 0: (147, 74), Part 1: (148, 84) ...
+Face Align in 0.00291299819946 seconds
+Detection 1: Left: 266 Top: 280 Right: 328 Bottom: 342
+Part 0: (267, 303), Part 1: (267, 311) ...
+Face Align in 0.00311088562012 seconds
+Hit enter to continue
+Processing file: faces/data.jpg
+Number of faces detected: 12
+Face Detection in 1.4398651123 seconds
+Detection 0: Left: 1032 Top: 411 Right: 1107 Bottom: 486
+Part 0: (1036, 436), Part 1: (1036, 445) ...
+Face Align in 0.00372505187988 seconds
+Detection 1: Left: 432 Top: 425 Right: 494 Bottom: 487
+Part 0: (421, 451), Part 1: (423, 460) ...
+Face Align in 0.00365900993347 seconds
+Detection 2: Left: 860 Top: 480 Right: 922 Bottom: 543
+Part 0: (867, 495), Part 1: (867, 503) ...
+Face Align in 0.00430393218994 seconds
+Detection 3: Left: 943 Top: 418 Right: 1005 Bottom: 480
+Part 0: (944, 435), Part 1: (944, 442) ...
+Face Align in 0.00363707542419 seconds
+Detection 4: Left: 786 Top: 400 Right: 838 Bottom: 452
+Part 0: (783, 419), Part 1: (784, 426) ...
+Face Align in 0.00424695014954 seconds
+Detection 5: Left: 190 Top: 391 Right: 252 Bottom: 453
+Part 0: (194, 406), Part 1: (194, 414) ...
+Face Align in 0.0039370059967 seconds
+Detection 6: Left: 722 Top: 460 Right: 784 Bottom: 522
+Part 0: (724, 488), Part 1: (725, 496) ...
+Face Align in 0.00342798233032 seconds
+Detection 7: Left: 593 Top: 419 Right: 667 Bottom: 494
+Part 0: (598, 440), Part 1: (598, 449) ...
+Face Align in 0.00364089012146 seconds
+Detection 8: Left: 335 Top: 370 Right: 397 Bottom: 432
+Part 0: (336, 393), Part 1: (337, 401) ...
+Face Align in 0.00398588180542 seconds
+Detection 9: Left: 694 Top: 377 Right: 745 Bottom: 429
+Part 0: (695, 397), Part 1: (696, 404) ...
+Face Align in 0.00385093688965 seconds
+Detection 10: Left: 528 Top: 363 Right: 591 Bottom: 425
+Part 0: (529, 386), Part 1: (530, 394) ...
+Face Align in 0.00348401069641 seconds
+Detection 11: Left: 1107 Top: 369 Right: 1182 Bottom: 444
+Part 0: (1113, 398), Part 1: (1114, 406) ...
+Face Align in 0.00417399406433 seconds
+Hit enter to continue
+Processing file: faces/2008_001322.jpg
+Number of faces detected: 3
+Face Detection in 0.131388902664 seconds
+Detection 0: Left: 231 Top: 218 Right: 293 Bottom: 280
+Part 0: (234, 234), Part 1: (233, 242) ...
+Face Align in 0.00290608406067 seconds
+Detection 1: Left: 103 Top: 162 Right: 178 Bottom: 237
+Part 0: (106, 183), Part 1: (106, 194) ...
+Face Align in 0.0028510093689 seconds
+Detection 2: Left: 343 Top: 155 Right: 433 Bottom: 244
+Part 0: (357, 198), Part 1: (358, 208) ...
+Face Align in 0.00381302833557 seconds
+Hit enter to continue
+Processing file: faces/carlos.jpg
+Number of faces detected: 1
+Face Detection in 0.0407319068909 seconds
+Detection 0: Left: 54 Top: 78 Right: 161 Bottom: 186
+Part 0: (60, 103), Part 1: (61, 117) ...
+Face Align in 0.00296902656555 seconds
+Hit enter to continue
+Processing file: faces/2008_002079.jpg
+Number of faces detected: 6
+Face Detection in 0.133460998535 seconds
+Detection 0: Left: 59 Top: 127 Right: 103 Bottom: 170
+Part 0: (56, 146), Part 1: (57, 152) ...
+Face Align in 0.00294399261475 seconds
+Detection 1: Left: 37 Top: 187 Right: 89 Bottom: 239
+Part 0: (34, 206), Part 1: (35, 214) ...
+Face Align in 0.00292205810547 seconds
+Detection 2: Left: 434 Top: 170 Right: 486 Bottom: 222
+Part 0: (444, 187), Part 1: (443, 192) ...
+Face Align in 0.00285792350769 seconds
+Detection 3: Left: 405 Top: 166 Right: 441 Bottom: 202
+Part 0: (412, 179), Part 1: (411, 183) ...
+Face Align in 0.00329804420471 seconds
+Detection 4: Left: 121 Top: 130 Right: 157 Bottom: 166
+Part 0: (118, 142), Part 1: (118, 147) ...
+Face Align in 0.00283098220825 seconds
+Detection 5: Left: 345 Top: 138 Right: 381 Bottom: 174
+Part 0: (350, 147), Part 1: (351, 151) ...
+Face Align in 0.0027711391449 seconds
+Hit enter to continue
+hugo@dataPc:~/face_examples$ ./hog.py faces/*.jpgHoriented Object Histogram in 0.0869419574738 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0782070159912 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0866739749908 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0879499912262 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0778791904449 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0842940807343 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0965790748596 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0751390457153 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0921108722687 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.0245220661163 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.956043958664 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.185256004333 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.406506061554 seconds
+Press enter to continue
+
+Horiented Object Histogram in 0.166268110275 seconds
+Press enter to continue

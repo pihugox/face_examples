@@ -2,12 +2,15 @@
 
 ##sudo apt-get install python-tk
 
+## correr con ./hog.py faces/*.jpg
+
 import matplotlib.pyplot as plt
 
 from skimage.feature import hog
 from skimage import data, color, exposure
 import matplotlib.image as mpimg
 import sys
+import time
 
 plt.ion()
 
@@ -15,10 +18,10 @@ for f in sys.argv[1:]:
 	#image = color.rgb2gray(data.astronaut())
 	image = color.rgb2gray(mpimg.imread(f))
 
-
+	start_time = time.time();
 	fd, hog_image = hog(image, orientations=8, pixels_per_cell=(16, 16),
 	                    cells_per_block=(1, 1), visualise=True)
-
+	print("Horiented Object Histogram in %s seconds" % (time.time() - start_time))
 	fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(8, 4), sharex=True, sharey=True)
 
 	ax1.axis('off')

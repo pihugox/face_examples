@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# correr con ./face_detector.py faces/*.jpg
 # The contents of this file are in the public domain. See LICENSE_FOR_EXAMPLE_PROGRAMS.txt
 #
 #   This example program shows how to find frontal human faces in an image.  In
@@ -47,6 +48,8 @@ import sys
 import dlib
 from skimage import io
 
+import time
+
 
 detector = dlib.get_frontal_face_detector()
 win = dlib.image_window()
@@ -57,8 +60,11 @@ for f in sys.argv[1:]:
     # The 1 in the second argument indicates that we should upsample the image
     # 1 time.  This will make everything bigger and allow us to detect more
     # faces.
+    start_time = time.time()
     dets = detector(img, 1)
+    end_time = time.time();
     print("Number of faces detected: {}".format(len(dets)))
+    print("Face detection in %s seconds" % (end_time - start_time))
     for i, d in enumerate(dets):
         print("Detection {}: Left: {} Top: {} Right: {} Bottom: {}".format(
             i, d.left(), d.top(), d.right(), d.bottom()))

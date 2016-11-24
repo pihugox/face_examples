@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Correr con ./face_landmark_detection.py shape_predictor_68_face_landmarks.dat faces/
+
 # The contents of this file are in the public domain. See LICENSE_FOR_EXAMPLE_PROGRAMS.txt
 #
 #   This example program shows how to find frontal human faces in an image and
@@ -48,6 +50,8 @@ import dlib
 import glob
 from skimage import io
 
+import time
+
 if len(sys.argv) != 3:
     print(
         "Give the path to the trained shape predictor model as the first "
@@ -76,15 +80,21 @@ for f in glob.glob(os.path.join(faces_folder_path, "*.jpg")):
     # Ask the detector to find the bounding boxes of each face. The 1 in the
     # second argument indicates that we should upsample the image 1 time. This
     # will make everything bigger and allow us to detect more faces.
+    start_time = time.time()
     dets = detector(img, 1)
+    detector_time = time.time() - start_time;
     print("Number of faces detected: {}".format(len(dets)))
+    print("Face Detection in %s seconds" % detector_time)
     for k, d in enumerate(dets):
         print("Detection {}: Left: {} Top: {} Right: {} Bottom: {}".format(
             k, d.left(), d.top(), d.right(), d.bottom()))
         # Get the landmarks/parts for the face in box d.
+        start_time = time.time()
         shape = predictor(img, d)
+        shape_time = time.time() - start_time
         print("Part 0: {}, Part 1: {} ...".format(shape.part(0),
                                                   shape.part(1)))
+        print("Face Align in %s seconds" % shape_time)
         # Draw the face landmarks on the screen.
         win.add_overlay(shape)
 
